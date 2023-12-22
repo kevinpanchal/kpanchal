@@ -2196,6 +2196,7 @@ input[type="radio"]+label:before {
 /* Box */
 
 .box {
+	height: 12em;
 	border: solid 1px rgba(212, 212, 255, 0.1);
 	margin-bottom: 2em;
 	padding: 1.5em;
